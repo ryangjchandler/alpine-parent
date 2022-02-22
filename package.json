@@ -1,6 +1,6 @@
 {
     "name": "@ryangjchandler/alpine-parent",
-    "description": "A handy $parent helper for Alpine components.",
+    "description": "Adds a handy $parent magic property to your Alpine components.",
     "version": "1.0.0",
     "author": {
         "name": "Ryan Chandler",
