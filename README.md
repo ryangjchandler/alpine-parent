@@ -57,7 +57,7 @@ Access the `$parent` property in your component:
 </div>
 ```
 
-The `$parent` property returns a `Proxy`, so any updates to the properties should be reactive.
+The `$parent` property returns a `Proxy`, so any updates to the properties should be reactive. This means you'll be able to use it inside of `x-model`, etc.
 
 ## Versioning
 
